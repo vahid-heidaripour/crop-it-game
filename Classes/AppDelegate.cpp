@@ -24,6 +24,7 @@
 
 #include "AppDelegate.h"
 #include "MainMenu.h"
+#include "Game_ClassicMode/GameClassic.h"
 #include "GameOptions.h"
 #include "UserData.h"
 #include "SimpleAudioEngine.h"
